@@ -14,10 +14,10 @@ import com.coderising.jvm.loader.ClassFileLoader;
 public class ClassFileloaderTest {
 
 	
-	static String path1 = "C:\\Users\\liuxin\\git\\coding2017\\liuxin\\mini-jvm\\bin";
-	static String path2 = "C:\temp";
+	static String path1 = "G:\\coderising2017\\group18\\627498099\\bin";
+	static String path2 = "G:\\temp";
 	
-	
+	 
 	
 	@Before
 	public void setUp() throws Exception {		 
